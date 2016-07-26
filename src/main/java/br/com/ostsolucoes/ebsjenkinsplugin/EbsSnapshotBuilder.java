@@ -1,4 +1,4 @@
-package br.com.ostsolucoestec.ebsjenkinsplugin;
+package br.com.ostsolucoes.ebsjenkinsplugin;
 import hudson.Launcher;
 import hudson.Extension;
 import hudson.util.FormValidation;
