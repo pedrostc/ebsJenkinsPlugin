@@ -12,5 +12,8 @@
 hs_err_pid*
 
 # Plugin test and compiling folders
-/target
-/work
+target/
+work/
+
+.idea/libraries/
+.idea/copyright/
